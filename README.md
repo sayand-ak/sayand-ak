@@ -1,4 +1,4 @@
-![MasterHead](https://insider.blockchainwork.net/wp-content/uploads/2022/07/Tim-hieu-tat-ca-tu-A-Z-ve-vi-tri-Front-End-Developer_-2.jpg)
+
 <h1 align="center">Hi 👋, I'm Sayand AK</h1>
 <h3 align="center">A creative frontend developer.</h3>
 
