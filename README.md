@@ -41,7 +41,7 @@
       <br>JavaScript
     </td>
     <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://iconscout.com/free-3d-illustration/typescript-9294849)" alt="icon" width="65" height="65" />
       <br>TypeScript
     </td>
     <td align="center" width="100">
