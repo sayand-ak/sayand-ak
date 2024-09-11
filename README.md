@@ -57,12 +57,16 @@
       </a>
       <br>Firebase
     </td>
+      <td align="center" width="100">
+        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
+      <br>AWS
+    </td>
+  </tr>
+  <tr>
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
       <br>Figma
     </td>
-  </tr>
-  <tr>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -78,10 +82,6 @@
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
-    </td>
-      <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
-      <br>AWS
     </td>
        
   </tr>
