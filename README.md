@@ -37,35 +37,17 @@
 <table align="center">
   <tr>
     <td align="center" width="100">
-      <a href="#macropower-tech">
-        <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="icon" width="45" height="45" />
-      </a>
-      <br>Flutter
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
     </td>
     <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="icon" width="45" height="45" />
-      <br>Dart
+        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://cdn3d.iconscout.com/3d/free/thumb/free-typescript-3d-icon-download-in-png-blend-fbx-gltf-file-formats--microsoft-logo-angular-language-javascript-static-type-coding-lang-pack-logos-icons-7577992.png?f=webp)" alt="icon" width="65" height="65" />
+      <br>TypeScript
     </td>
     <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
       </a>
       <br>Firebase
-    </td>
-      <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/bloc.png" alt="icon" width="45" height="50" />
-      <br>BLoC
-    </td>
-   <td align="center" width="100">
-        <img src="https://raw.githubusercontent.com/sugith10/images/main/technologies/riverpod.png" alt="icon" width="45" height="50" />
-      <br>Riverpod
-    </td>
-      <td align="center" width="100">
-        <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQ Lite" />
-      <br>SQ Lite
-    </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=kotlin" alt="icon" width="45" height="45" />
-      <br>Kotlin
     </td>
        <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=figma" alt="icon" width="45" height="45" />
@@ -73,10 +55,6 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="100">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-      <br>JavaScript
-    </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
       <br>HTML5
@@ -84,6 +62,10 @@
     <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
+    </td>
+    <td align="center" width="100">
+        <img src="[https://skillicons.dev/icons?i=css](https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-download-in-png-blend-fbx-gltf-file-formats--html-logo-css-framework-customizable-coding-lang-pack-logos-icons-7577995.png)" width="48" height="48" alt="css" />
+      <br>Tailwind
     </td>
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
@@ -97,11 +79,7 @@
         <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
       <br>MongoDB
     </td>
-    <td align="center"  width="100">
-        <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="mysql" />
-      <br>My SQL
-    </td>
-           <td align="center" width="100">
+      <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
       <br>AWS
     </td>
@@ -120,21 +98,13 @@
         <img src="https://skillicons.dev/icons?i=github" alt="icon" width="45" height="45" />
       <br>Github
     </td>
-    <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=androidstudio" width="48" height="48" alt="android studio" />
-      <br>Android Studio
-    </td>
-            <td align="center" width="100">
+      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VsCode" />
       <br>VsCode
     </td>
       <td align="center" width="100">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="48" height="48" alt="linu" />
       <br>Linux
-    </td>
-     <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=apple" width="48" height="48" alt="firebase" />
-      <br>Apple
     </td>
      <td align="center" width="100">
         <img src="https://skillicons.dev/icons?i=windows" width="48" height="48" alt="linu" />
