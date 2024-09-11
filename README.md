@@ -41,8 +41,16 @@
       <br>JavaScript
     </td>
     <td align="center" width="100">
-        <img src="[https://techstack-generator.vercel.app/js-icon.svg](https://iconscout.com/free-3d-illustration/typescript-9294849)" alt="icon" width="65" height="65" />
+        <img src="#" alt="icon" width="65" height="65" />
       <br>TypeScript
+    </td>
+    <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+      <br>Nodejs
+      </td>
+          <td align="center" width="100">
+        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
     </td>
     <td align="center" width="100">
         <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="icon" width="45" height="45" />
@@ -70,14 +78,6 @@
     <td align="center"  width="100">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
-    </td>
-           <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-      <br>Nodejs
-      </td>
-          <td align="center" width="100">
-        <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
     </td>
       <td align="center" width="100">
         <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" />
